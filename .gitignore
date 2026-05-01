@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+scraper_state.json
+image_hashes.json
+*.tmp
+.DS_Store
