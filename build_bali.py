@@ -743,7 +743,7 @@ def generate_images_html(area, category, index):
     cat_info = CATEGORIES.get(category, CATEGORIES["food"])
     html = ""
     for i, img in enumerate(images):
-        img_path = f"../../images/{area}/{img}"
+        img_path = f"../../images/{area}/{category}/{img}"
         alt_text = f"{area} {cat_info['name']} 여행 사진 {i+1}"
         html += f'<figure style="margin:20px 0;text-align:center"><img src="{img_path}" alt="{alt_text}" loading="lazy" style="max-width:100%;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,0.08)" /></figure>\n'
     return html

@@ -7,7 +7,7 @@ SEO 최적화 제목 생성기 v2
 - 클릭률(CTR) 최적화
 """
 
-import random
+import random, hashlib
 from datetime import datetime
 
 SEO_KEYWORDS = {
@@ -193,6 +193,12 @@ def generate_seo_title(area, category, index):
         num=random.choice([3, 5, 7, 10]),
         year=year,
     )
+    # 중복 방지: area+category+index 조합으로 완전 고유 ID 생성
+    unique_id = hashlib.md5(f"{area}_{category}_{index}".encode()).hexdigest()[:4]
+    title = title.rstrip(")")
+    if title.endswith("("):
+        title = title[:-1].rstrip()
+    title = title + f" ({unique_id})"
     return title
 
 def generate_meta_description(area, category, index):
