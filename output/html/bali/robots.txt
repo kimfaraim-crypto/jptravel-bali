@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://balitravel.blog/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: NaverBot
+Allow: /

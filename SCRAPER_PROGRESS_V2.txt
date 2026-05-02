@@ -1,0 +1,41 @@
+[09:50:40] ============================================================
+[09:50:40] Bali Real Image Scraper v2
+[09:50:40] Target: 25 per combo × 66 combos
+[09:50:40] ============================================================
+[09:50:40] 
+🌍 우붓
+[09:50:40]   우붓/shopping: 17 existing, need 8 more
+[09:50:57]   우붓/shopping: 48 unique candidates
+[09:51:01]   우붓/shopping: +8 downloaded (total: 25)
+[09:51:01] 
+🌍 스미냑
+[09:51:01]   스미냑/food: 20 existing, need 5 more
+[09:51:18]   스미냑/food: 34 unique candidates
+[09:51:23]   스미냑/food: +3 downloaded (total: 23)
+[09:51:23]   스미냑/culture: 18 existing, need 7 more
+[09:51:40]   스미냑/culture: 28 unique candidates
+[09:51:45]   스미냑/culture: +5 downloaded (total: 23)
+[09:51:45]   스미냑/nature: 19 existing, need 6 more
+[09:52:01]   스미냑/nature: 33 unique candidates
+[09:52:05]   스미냑/nature: +6 downloaded (total: 25)
+[09:52:05]   스미냑/shopping: 8 existing, need 17 more
+[09:52:22]   스미냑/shopping: 18 unique candidates
+[09:52:25]   스미냑/shopping: +7 downloaded (total: 15)
+[09:52:25]   스미냑/transport: 9 existing, need 16 more
+[09:52:42]   스미냑/transport: 39 unique candidates
+[09:52:46]   스미냑/transport: +5 downloaded (total: 14)
+[09:52:46] 
+🌍 꾸따
+[09:52:46]   꾸따/culture: 11 existing, need 14 more
+[09:53:07]   꾸따/culture: 88 unique candidates
+[09:53:14]   꾸따/culture: +14 downloaded (total: 25)
+[09:53:14]   꾸따/shopping: 18 existing, need 7 more
+[09:53:31]   꾸따/shopping: 60 unique candidates
+[09:53:36]   꾸따/shopping: +3 downloaded (total: 21)
+[09:53:36] 
+🌍 사누르
+[09:53:36]   사누르/food: 6 existing, need 19 more
+[09:53:53]   사누르/food: 18 unique candidates
+[09:53:54]   사누르/food: +3 downloaded (total: 9)
+[09:53:54]   사누르/culture: 11 existing, need 14 more
+[09:54:12]   사누르/culture: 87 unique candidates
