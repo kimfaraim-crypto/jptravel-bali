@@ -1,48 +1,69 @@
-JP Travel Bali — 품질 감사 보고서 (개선 전)
-생성일: 2026-05-03
+JP Travel Bali - Quality Audit (Before Improvement)
+============================================================
 
-=== 1. 구조 ===
-총 HTML: 924개 (11지역 x 6카테고리 x 14페이지)
+Total HTML: 924
+Cities: 11 (꾸따, 누사두아, 로비나, 베두굴, 사누르, 스미냑, 우붓, 울루와뚜, 짠디다사, 킨타마니, 타나롯)
+Categories: 7 (food, beach, culture, nature, shopping, transport)
+Articles per city-category: 12
 
-=== 2. 제목/메타 ===
-고유 제목: 924/924 (중복 0)
-고유 메타 설명: 919/924 (중복 5)
+STEP 2 - Title/Meta:
+  Unique titles: 924/924
+  Duplicate title groups: 0
+  Unique meta descriptions: 924/924
+  Duplicate meta groups: 0
 
-=== 3. 본문 길이 ===
-평균 한국어 글자: 1165자
-1500자 미만: 923개 / 924개 (99.9%)
-한자 포함: 76개
-이모지 포함: 924개 (100%)
+STEP 3 - Content:
+  Korean chars: min=852 max=1240 avg=981
+  Under 1500 chars: 924
+  Chinese/Hanja: 152
+  Emoji: 924
 
-=== 4. 조사 오류 ===
-총: 0개 (이전 수정 완료)
+STEP 4 - Particles:
+  Total errors: 0
 
-=== 5. 반복 문구 ===
-  [247회/26.7%] 정보를 정리했습니다
-  [247회/26.7%] 최신 정보이니 참고하세요
-  [245회/26.5%] 즐거운 시간 보내세요
-  [205회/22.2%] 도움이 되셨길 바랍니다
-  [205회/22.2%] 추가 질문은 댓글로
-  [138회/14.9%] 가격 비교
-  [132회/14.3%] 추천이에요
-  [104회/11.3%] 2026 최신
-  [ 66회/ 7.1%] 실전 팁
+STEP 5 - Repetitive phrases:
+  가격 비교: 1599 in 528 files
+  베스트: 915 in 279 files
+  총정리: 374 in 121 files
+  10년차 블로거: 0 in 0 files
+  숨은 명소: 0 in 0 files
+  2026년 기준: 0 in 0 files
+  실전 팁: 0 in 0 files
+  추천이에요: 0 in 0 files
+  끝까지 읽어보세요: 0 in 0 files
+  여행 꿀팁: 0 in 0 files
+  현지인 맛집: 0 in 0 files
+  인생샷: 0 in 0 files
+  포토스팟: 0 in 0 files
+  필수 코스: 0 in 0 files
+  꼭 가봐야 할: 0 in 0 files
+  진짜: 0 in 0 files
+  완벽한: 0 in 0 files
+  알찬: 0 in 0 files
+  여행자라면: 0 in 0 files
+  이 글 하나로: 0 in 0 files
+  모든 정보: 0 in 0 files
+  완전 정복: 0 in 0 files
+  여행 준비: 0 in 0 files
+  놓치지 마세요: 0 in 0 files
 
-=== 6. H2 구조 ===
-고유 구조: 876개 (대부분 고유하나 동일 패턴 존재)
+STEP 6 - H2 structure:
+  Unique: 330, Duplicate groups: 330
 
-=== 7. Q&A ===
-FAQ 형식 미사용 (이전 제거됨)
+STEP 7 - FAQ:
+  Files with FAQ: 924, Duplicate groups: 56
 
-=== 8. 이미지 ===
-누락: 0개
-같은 페이지 중복: 0개
-3+ 페이지 재사용: 763개
+STEP 8 - Images:
+  WebP on disk: 6593
+  References: 10164, Missing: 0
+  In-page dup: 0, Hash dup groups: 0
 
-=== 9. ALT ===
-단조 ALT: 2754개 (짧거나 "사진" 포함)
+STEP 9 - alt/figcaption:
+  Total alts: 10164, Generic: 661
+  Total figs: 10164, Generic: 0
 
-=== 10. MRT 링크 ===
-제휴 링크: 924/924 ✅
-쿠폰 이미지: 924/924 ✅
-파트너스 고지: 924/924 ✅
+STEP 10 - MRT:
+  With link: 924/924
+  Without: 0
+  Total links: 3806
+  Disclosure: 924

@@ -1,35 +1,247 @@
 {
-  "total_html": 924,
-  "areas": 11,
-  "categories": 6,
-  "dup_titles": 0,
-  "dup_descs": 5,
-  "avg_chars": 1165,
-  "short_pages": 923,
-  "hanja_pages": 76,
-  "emoji_pages": 924,
-  "josa_errors": 0,
-  "repeated_phrases": {
-    "정보를 정리했습니다": 247,
-    "최신 정보이니 참고하세요": 247,
-    "즐거운 시간 보내세요": 245,
-    "도움이 되셨길 바랍니다": 205,
-    "추가 질문은 댓글로": 205,
-    "가격 비교": 138,
-    "추천이에요": 132,
-    "2026 최신": 104,
-    "실전 팁": 66
+  "step1_distribution": {
+    "total_html": 924,
+    "cities": 11,
+    "categories_per_city": {
+      "꾸따": {
+        "beach": 14,
+        "culture": 14,
+        "food": 14,
+        "nature": 14,
+        "shopping": 14,
+        "transport": 14
+      },
+      "누사두아": {
+        "beach": 14,
+        "culture": 14,
+        "food": 14,
+        "nature": 14,
+        "shopping": 14,
+        "transport": 14
+      },
+      "로비나": {
+        "beach": 14,
+        "culture": 14,
+        "food": 14,
+        "nature": 14,
+        "shopping": 14,
+        "transport": 14
+      },
+      "베두굴": {
+        "beach": 14,
+        "culture": 14,
+        "food": 14,
+        "nature": 14,
+        "shopping": 14,
+        "transport": 14
+      },
+      "사누르": {
+        "beach": 14,
+        "culture": 14,
+        "food": 14,
+        "nature": 14,
+        "shopping": 14,
+        "transport": 14
+      },
+      "스미냑": {
+        "beach": 14,
+        "culture": 14,
+        "food": 14,
+        "nature": 14,
+        "shopping": 14,
+        "transport": 14
+      },
+      "우붓": {
+        "beach": 14,
+        "culture": 14,
+        "food": 14,
+        "nature": 14,
+        "shopping": 14,
+        "transport": 14
+      },
+      "울루와뚜": {
+        "beach": 14,
+        "culture": 14,
+        "food": 14,
+        "nature": 14,
+        "shopping": 14,
+        "transport": 14
+      },
+      "짠디다사": {
+        "beach": 14,
+        "culture": 14,
+        "food": 14,
+        "nature": 14,
+        "shopping": 14,
+        "transport": 14
+      },
+      "킨타마니": {
+        "beach": 14,
+        "culture": 14,
+        "food": 14,
+        "nature": 14,
+        "shopping": 14,
+        "transport": 14
+      },
+      "타나롯": {
+        "beach": 14,
+        "culture": 14,
+        "food": 14,
+        "nature": 14,
+        "shopping": 14,
+        "transport": 14
+      }
+    }
   },
-  "unique_h2_structures": 876,
-  "dup_qa": 0,
-  "img_missing": 0,
-  "img_dup_in_page": 0,
-  "img_high_reuse": 763,
-  "generic_alts": 2754,
-  "mrt_stats": {
-    "affiliate": 924,
-    "coupon": 924,
-    "disclaimer": 924,
-    "sponsored": 924
-  }
+  "step2_title_meta": {
+    "total_titles": 924,
+    "unique_titles": 924,
+    "duplicate_title_groups": 0,
+    "total_metas": 924,
+    "unique_metas": 924,
+    "duplicate_meta_groups": 0,
+    "sample_dup_titles": {}
+  },
+  "step3_content": {
+    "korean_min": 852,
+    "korean_max": 1240,
+    "korean_avg": 981,
+    "articles_under_1500": 924,
+    "articles_with_chinese": 152,
+    "articles_with_emoji": 924
+  },
+  "step4_particles": {
+    "total_errors": 0,
+    "by_type": {}
+  },
+  "step5_repetitive_phrases": {
+    "10년차 블로거": {
+      "total": 0,
+      "files": 0
+    },
+    "숨은 명소": {
+      "total": 0,
+      "files": 0
+    },
+    "2026년 기준": {
+      "total": 0,
+      "files": 0
+    },
+    "실전 팁": {
+      "total": 0,
+      "files": 0
+    },
+    "가격 비교": {
+      "total": 1599,
+      "files": 528
+    },
+    "추천이에요": {
+      "total": 0,
+      "files": 0
+    },
+    "끝까지 읽어보세요": {
+      "total": 0,
+      "files": 0
+    },
+    "여행 꿀팁": {
+      "total": 0,
+      "files": 0
+    },
+    "현지인 맛집": {
+      "total": 0,
+      "files": 0
+    },
+    "인생샷": {
+      "total": 0,
+      "files": 0
+    },
+    "포토스팟": {
+      "total": 0,
+      "files": 0
+    },
+    "필수 코스": {
+      "total": 0,
+      "files": 0
+    },
+    "꼭 가봐야 할": {
+      "total": 0,
+      "files": 0
+    },
+    "베스트": {
+      "total": 915,
+      "files": 279
+    },
+    "진짜": {
+      "total": 0,
+      "files": 0
+    },
+    "완벽한": {
+      "total": 0,
+      "files": 0
+    },
+    "알찬": {
+      "total": 0,
+      "files": 0
+    },
+    "여행자라면": {
+      "total": 0,
+      "files": 0
+    },
+    "이 글 하나로": {
+      "total": 0,
+      "files": 0
+    },
+    "모든 정보": {
+      "total": 0,
+      "files": 0
+    },
+    "총정리": {
+      "total": 374,
+      "files": 121
+    },
+    "완전 정복": {
+      "total": 0,
+      "files": 0
+    },
+    "여행 준비": {
+      "total": 0,
+      "files": 0
+    },
+    "놓치지 마세요": {
+      "total": 0,
+      "files": 0
+    }
+  },
+  "step6_structure": {
+    "unique_h2_structures": 330,
+    "duplicate_groups": 330
+  },
+  "step7_faq": {
+    "files_with_faq": 924,
+    "duplicate_faq_groups": 56
+  },
+  "step8_images": {
+    "webp_on_disk": 6593,
+    "total_refs": 10164,
+    "missing": 0,
+    "non_webp": 924,
+    "in_page_duplicates": 0,
+    "unique_hashes": 4052,
+    "duplicate_hash_groups": 0
+  },
+  "step9_alt_figcaption": {
+    "total_alts": 10164,
+    "generic_alts": 661,
+    "total_figs": 10164,
+    "generic_figs": 0
+  },
+  "step10_mrt": {
+    "has_hidden_image": 0,
+    "has_coupon_image": 924,
+    "has_cta": 0,
+    "has_disclosure": 924,
+    "has_link": 924,
+    "total_links": 3806
+  },
+  "files_without_mrt": 0
 }

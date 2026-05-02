@@ -1,0 +1,41 @@
+JP Travel Bali - Quality Audit (After Improvement)
+============================================================
+
+Total HTML: 924
+
+STEP 2 - Title/Meta:
+  Unique titles: 924/924
+  Duplicate titles: 0
+  Unique meta descriptions: 924/924
+  Duplicate metas: 0
+
+STEP 3 - Content:
+  Korean chars: min=1532 max=1754 avg=1624
+  Under 1500 chars: 0
+  Chinese/Hanja: 0
+  Emoji: 0
+
+STEP 4 - Particles:
+  Errors: 0
+
+STEP 8 - Images:
+  Missing: 0
+  In-page duplicates: 0
+  Unique hashes: 4057
+
+STEP 10 - MRT:
+  With link: 924/924
+  With disclosure: 924/924
+
+PASS CRITERIA:
+  [PASS] Title duplication: 0
+  [PASS] Meta description duplication: 0
+  [PASS] Articles under 1500 chars: 0
+  [PASS] Chinese/Hanja: 0
+  [PASS] Emoji: 0
+  [PASS] Particle errors: 0
+  [PASS] Image missing: 0
+  [PASS] In-page image duplicates: 0
+  [PASS] MRT link in all files
+  [PASS] sitemap.xml exists
+  [PASS] robots.txt exists
