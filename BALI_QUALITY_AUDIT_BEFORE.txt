@@ -9,25 +9,26 @@ Articles per city-category: 12
 STEP 2 - Title/Meta:
   Unique titles: 924/924
   Duplicate title groups: 0
-  Unique meta descriptions: 924/924
-  Duplicate meta groups: 0
+  Unique meta descriptions: 915/924
+  Duplicate meta groups: 4
 
 STEP 3 - Content:
-  Korean chars: min=852 max=1240 avg=981
-  Under 1500 chars: 924
-  Chinese/Hanja: 152
-  Emoji: 924
+  Korean chars: min=1532 max=1754 avg=1624
+  Under 1500 chars: 0
+  Chinese/Hanja: 0
+  Emoji: 0
 
 STEP 4 - Particles:
   Total errors: 0
 
 STEP 5 - Repetitive phrases:
-  가격 비교: 1599 in 528 files
-  베스트: 915 in 279 files
-  총정리: 374 in 121 files
+  가격 비교: 2357 in 924 files
+  2026년 기준: 1848 in 924 files
+  여행 준비: 924 in 924 files
+  베스트: 837 in 240 files
+  총정리: 264 in 66 files
   10년차 블로거: 0 in 0 files
   숨은 명소: 0 in 0 files
-  2026년 기준: 0 in 0 files
   실전 팁: 0 in 0 files
   추천이에요: 0 in 0 files
   끝까지 읽어보세요: 0 in 0 files
@@ -44,14 +45,13 @@ STEP 5 - Repetitive phrases:
   이 글 하나로: 0 in 0 files
   모든 정보: 0 in 0 files
   완전 정복: 0 in 0 files
-  여행 준비: 0 in 0 files
   놓치지 마세요: 0 in 0 files
 
 STEP 6 - H2 structure:
-  Unique: 330, Duplicate groups: 330
+  Unique: 66, Duplicate groups: 66
 
 STEP 7 - FAQ:
-  Files with FAQ: 924, Duplicate groups: 56
+  Files with FAQ: 924, Duplicate groups: 181
 
 STEP 8 - Images:
   WebP on disk: 6593
@@ -59,11 +59,11 @@ STEP 8 - Images:
   In-page dup: 0, Hash dup groups: 0
 
 STEP 9 - alt/figcaption:
-  Total alts: 10164, Generic: 661
-  Total figs: 10164, Generic: 0
+  Total alts: 10164, Generic: 2478
+  Total figs: 10164, Generic: 1764
 
 STEP 10 - MRT:
   With link: 924/924
   Without: 0
-  Total links: 3806
+  Total links: 4620
   Disclosure: 924

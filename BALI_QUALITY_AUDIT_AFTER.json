@@ -4,16 +4,16 @@
   "duplicate_titles": 0,
   "unique_metas": 924,
   "duplicate_metas": 0,
-  "korean_min": 1532,
-  "korean_max": 1754,
-  "korean_avg": 1624,
+  "korean_min": 1718,
+  "korean_max": 2075,
+  "korean_avg": 1850,
   "articles_under_1500": 0,
   "articles_with_chinese": 0,
   "articles_with_emoji": 0,
   "particle_errors": 0,
   "image_missing": 0,
-  "image_in_page_duplicates": 0,
+  "image_in_page_duplicates": 121,
   "files_with_mrt_link": 924,
   "files_with_mrt_disclosure": 924,
-  "unique_image_hashes": 4057
+  "unique_image_hashes": 4029
 }

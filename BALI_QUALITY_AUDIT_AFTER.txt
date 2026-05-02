@@ -10,7 +10,7 @@ STEP 2 - Title/Meta:
   Duplicate metas: 0
 
 STEP 3 - Content:
-  Korean chars: min=1532 max=1754 avg=1624
+  Korean chars: min=1718 max=2075 avg=1850
   Under 1500 chars: 0
   Chinese/Hanja: 0
   Emoji: 0
@@ -20,8 +20,8 @@ STEP 4 - Particles:
 
 STEP 8 - Images:
   Missing: 0
-  In-page duplicates: 0
-  Unique hashes: 4057
+  In-page duplicates: 121
+  Unique hashes: 4029
 
 STEP 10 - MRT:
   With link: 924/924
@@ -35,7 +35,7 @@ PASS CRITERIA:
   [PASS] Emoji: 0
   [PASS] Particle errors: 0
   [PASS] Image missing: 0
-  [PASS] In-page image duplicates: 0
+  [FAIL] In-page image duplicates: 0
   [PASS] MRT link in all files
   [PASS] sitemap.xml exists
   [PASS] robots.txt exists

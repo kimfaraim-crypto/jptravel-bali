@@ -98,17 +98,17 @@
     "unique_titles": 924,
     "duplicate_title_groups": 0,
     "total_metas": 924,
-    "unique_metas": 924,
-    "duplicate_meta_groups": 0,
+    "unique_metas": 915,
+    "duplicate_meta_groups": 4,
     "sample_dup_titles": {}
   },
   "step3_content": {
-    "korean_min": 852,
-    "korean_max": 1240,
-    "korean_avg": 981,
-    "articles_under_1500": 924,
-    "articles_with_chinese": 152,
-    "articles_with_emoji": 924
+    "korean_min": 1532,
+    "korean_max": 1754,
+    "korean_avg": 1625,
+    "articles_under_1500": 0,
+    "articles_with_chinese": 0,
+    "articles_with_emoji": 0
   },
   "step4_particles": {
     "total_errors": 0,
@@ -124,16 +124,16 @@
       "files": 0
     },
     "2026년 기준": {
-      "total": 0,
-      "files": 0
+      "total": 1848,
+      "files": 924
     },
     "실전 팁": {
       "total": 0,
       "files": 0
     },
     "가격 비교": {
-      "total": 1599,
-      "files": 528
+      "total": 2357,
+      "files": 924
     },
     "추천이에요": {
       "total": 0,
@@ -168,8 +168,8 @@
       "files": 0
     },
     "베스트": {
-      "total": 915,
-      "files": 279
+      "total": 837,
+      "files": 240
     },
     "진짜": {
       "total": 0,
@@ -196,16 +196,16 @@
       "files": 0
     },
     "총정리": {
-      "total": 374,
-      "files": 121
+      "total": 264,
+      "files": 66
     },
     "완전 정복": {
       "total": 0,
       "files": 0
     },
     "여행 준비": {
-      "total": 0,
-      "files": 0
+      "total": 924,
+      "files": 924
     },
     "놓치지 마세요": {
       "total": 0,
@@ -213,12 +213,12 @@
     }
   },
   "step6_structure": {
-    "unique_h2_structures": 330,
-    "duplicate_groups": 330
+    "unique_h2_structures": 66,
+    "duplicate_groups": 66
   },
   "step7_faq": {
     "files_with_faq": 924,
-    "duplicate_faq_groups": 56
+    "duplicate_faq_groups": 181
   },
   "step8_images": {
     "webp_on_disk": 6593,
@@ -226,14 +226,14 @@
     "missing": 0,
     "non_webp": 924,
     "in_page_duplicates": 0,
-    "unique_hashes": 4052,
+    "unique_hashes": 4057,
     "duplicate_hash_groups": 0
   },
   "step9_alt_figcaption": {
     "total_alts": 10164,
-    "generic_alts": 661,
+    "generic_alts": 2478,
     "total_figs": 10164,
-    "generic_figs": 0
+    "generic_figs": 1764
   },
   "step10_mrt": {
     "has_hidden_image": 0,
@@ -241,7 +241,7 @@
     "has_cta": 0,
     "has_disclosure": 924,
     "has_link": 924,
-    "total_links": 3806
+    "total_links": 4620
   },
   "files_without_mrt": 0
 }
