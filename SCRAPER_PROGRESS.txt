@@ -1,140 +1,73 @@
-[09:46:14] ============================================================
-[09:46:14] 🚀 Flickr 피드 기반 발리 이미지 스크래퍼
-[09:46:14] ============================================================
-[09:46:14] 
+[10:18:06] ============================================================
+[10:18:06] 🚀 중국 여행 사이트 발리 이미지 스크래퍼
+[10:18:06] ============================================================
+[10:18:06] 
 🌍 우붓
-[09:46:14]   🔍 우붓/food: +30장 필요
-[09:46:15]   꾸따/shopping: Found 61 unique candidates
-[09:46:18]   꾸따/shopping: Downloaded 5/25
-[09:46:18]     ✅ 우붓_food_0121.webp [Vendor]
-[09:46:19]     ✅ 우붓_food_0121.webp [Food vendor]
-[09:46:20]     ✅ 우붓_food_0121.webp [2024-112427]
-[09:46:21]     ✅ 우붓_food_0121.webp [2024-112428]
-[09:46:21]   꾸따/shopping: Downloaded 10/25
-[09:46:22]     ✅ 우붓_food_0121.webp [2024-112426]
-[09:46:24]   꾸따/shopping: Downloaded 15/25
-[09:46:24]     ✅ 우붓_food_0121.webp [2024-112163]
-[09:46:25]     ✅ 우붓_food_0121.webp [Lunch/fish satay with peanut sauce]
-[09:46:26]   꾸따/shopping: Done! Downloaded 18 new images
-[09:46:26]   꾸따/transport: Have 0, need 25 more
-[09:46:27]     ✅ 우붓_food_0121.webp [outside of Pura Gunung Lebah]
-[09:46:28]     ✅ 우붓_food_0121.webp [outside of Pura Gunung Lebah]
-[09:46:29]     ✅ 우붓_food_0121.webp [outside of Pura Gunung Lebah]
-[09:46:32]     ✅ 우붓_food_0121.webp [artsy local food place]
-[09:46:32]     ✅ 우붓_food_0121.webp [artsy local food place]
-[09:46:34]     ✅ 우붓_food_0121.webp [artsy local food place]
-[09:46:35]     ✅ 우붓_food_0121.webp [artsy local food place]
-[09:46:36]     ✅ 우붓_food_0121.webp [artsy local food place]
-[09:46:37]     ✅ 우붓_food_0121.webp [artsy local food place]
-[09:46:39]     ✅ 우붓_food_0121.webp [2024-112430 Bali Ubud]
-[09:46:43]     ✅ 우붓_food_0121.webp [Ibu di warungnya]
-[09:46:43]     ✅ 우붓_food_0121.webp [Ibu di warungnya]
-[09:46:45]     ✅ 우붓_food_0121.webp []
-[09:46:48]     ✅ 우붓_food_0121.webp [Grain tampe, coffee, water lentils,]
-[09:46:49]     ✅ 우붓_food_0121.webp [Civet - Luwak]
-[09:46:49]     ✅ 우붓_food_0121.webp [Coffee Plantation - Satria Agrowisa]
-[09:46:50]   꾸따/transport: Found 89 unique candidates
-[09:46:51]     ✅ 우붓_food_0121.webp [at hidden "Melukat" temple]
-[09:46:52]   꾸따/transport: Downloaded 5/25
-[09:46:53]     ✅ 우붓_food_0121.webp [Coffee Plantation Ubud]
-[09:46:55]     ✅ 우붓_food_0121.webp [Freshly Roasted Coffee Beans]
-[09:46:57]   꾸따/transport: Downloaded 10/25
-[09:46:58]     ✅ 우붓_food_0121.webp [...]
-[09:46:59]   꾸따/transport: Downloaded 15/25
-[09:46:59]     ✅ 우붓_food_0121.webp []
-[09:47:00]     ✅ 우붓_food_0121.webp [Babi Guling Pak Malen, Seminyak]
-[09:47:01]     ✅ 우붓_food_0121.webp [Babi Guling Pak Malen, Seminyak]
-[09:47:01]   📊 우붓/food: +30 → 150장
-[09:47:01]   🔍 우붓/culture: +26장 필요
-[09:47:03]   꾸따/transport: Downloaded 20/25
-[09:47:06]   꾸따/transport: Downloaded 25/25
-[09:47:06]   꾸따/transport: Done! Downloaded 25 new images
-[09:47:06] 
-========================================
-[09:47:06] Processing area: 사누르
-[09:47:06] ========================================
-[09:47:06]   사누르/food: Have 0, need 25 more
-[09:47:09]     ✅ 우붓_culture_0125.webp [Ubud, Bali]
-[09:47:09]     ✅ 우붓_culture_0125.webp [Ubud, Bali]
-[09:47:10]     ✅ 우붓_culture_0125.webp [Bali 2025]
-[09:47:12]     ✅ 우붓_culture_0125.webp [Bali 2025]
-[09:47:13]     ✅ 우붓_culture_0125.webp [Bali 2025]
-[09:47:16]     ✅ 우붓_culture_0125.webp [Break Time in Bali]
-[09:47:18]     ✅ 우붓_culture_0125.webp [Monkey forest, Bali]
-[09:47:19]     ✅ 우붓_culture_0125.webp [Ubud Monkey Forest]
-[09:47:19]     ✅ 우붓_culture_0125.webp [Ubud Monkey Forest]
-[09:47:20]     ✅ 우붓_culture_0125.webp [Ubud Monkey Forest]
-[09:47:21]     ✅ 우붓_culture_0125.webp [Ubud Monkey Forest]
-[09:47:22]     ✅ 우붓_culture_0125.webp [Ubud Monkey Forest]
-[09:47:24]     ✅ 우붓_culture_0125.webp [Coolest Monkey in the Jungle]
-[09:47:25]     ✅ 우붓_culture_0125.webp [Ubud Monkey Forest]
-[09:47:27]     ✅ 우붓_culture_0125.webp [2024-112419 Bali Ubud Mask Dance]
-[09:47:28]   사누르/food: Found 18 unique candidates
-[09:47:28]     ✅ 우붓_culture_0125.webp [2024-112418]
-[09:47:30]     ✅ 우붓_culture_0125.webp [2024-112134 Bali Dance]
-[09:47:31]   사누르/food: Downloaded 5/25
-[09:47:31]     ✅ 우붓_culture_0125.webp [2024-112142 Bali Dance]
-[09:47:31]   사누르/food: Done! Downloaded 6 new images
-[09:47:31]   사누르/culture: Have 0, need 25 more
-[09:47:32]     ✅ 우붓_culture_0125.webp [2024-112128]
-[09:47:33]     ✅ 우붓_culture_0125.webp [2024-112130]
-[09:47:36]     ✅ 우붓_culture_0125.webp [2024-112127]
-[09:47:38]     ✅ 우붓_culture_0125.webp [2024-112132 Bali Dance]
-[09:47:41]     ✅ 우붓_culture_0125.webp [OUR GALLERY OF BALINESE ART: #16 Ke]
-[09:47:43]     ✅ 우붓_culture_0125.webp [Wood carver work shop]
-[09:47:45]     ✅ 우붓_culture_0125.webp [Wood carver work shop]
-[09:47:46]     ✅ 우붓_culture_0125.webp [Wood carver work shop]
-[09:47:46]   📊 우붓/culture: +26 → 150장
-[09:47:46]   🔍 우붓/beach: +30장 필요
-[09:47:51]     ✅ 우붓_beach_0121.webp [Blangsingah Glass Bridge]
-[09:47:53]     ✅ 우붓_beach_0121.webp [Melukat]
-[09:47:54]   사누르/culture: Found 101 unique candidates
-[09:47:54]     ✅ 우붓_beach_0121.webp [Melukat]
-[09:47:55]     ✅ 우붓_beach_0121.webp [at hidden "Melukat" temple]
-[09:47:56]     ✅ 우붓_beach_0121.webp [at hidden "Melukat" temple]
-[09:47:57]   사누르/culture: Downloaded 5/25
-[09:47:57]     ✅ 우붓_beach_0121.webp [at hidden "Melukat" temple]
-[09:47:57]     ✅ 우붓_beach_0121.webp [at hidden "Melukat" temple]
-[09:48:00]     ✅ 우붓_beach_0121.webp [Nungnung Waterfall, Badung Regency,]
-[09:48:01]   사누르/culture: Downloaded 10/25
-[09:48:02]   사누르/culture: Done! Downloaded 11 new images
-[09:48:02]   사누르/beach: Have 0, need 25 more
-[09:48:05]     ✅ 우붓_beach_0121.webp [Ubud]
-[09:48:07]     ✅ 우붓_beach_0121.webp [Kanto Lampo]
-[09:48:08]     ✅ 우붓_beach_0121.webp [still]
-[09:48:09]     ✅ 우붓_beach_0121.webp [Ubud_117]
-[09:48:13]     ✅ 우붓_beach_0121.webp [Ridge Walk]
-[09:48:14]     ✅ 우붓_beach_0121.webp [Rice Field]
-[09:48:16]     ✅ 우붓_beach_0121.webp [Rice Field]
-[09:48:17]     ✅ 우붓_beach_0121.webp [Aerial picture of Campuhan Ridge Wa]
-[09:48:18]     ✅ 우붓_beach_0121.webp [Sunset #2]
-[09:48:19]     ✅ 우붓_beach_0121.webp [Rice field #4]
-[09:48:20]     ✅ 우붓_beach_0121.webp [Rice field #2]
-[09:48:25]   사누르/beach: Found 84 unique candidates
-[09:48:26]     ✅ 우붓_beach_0121.webp [Ubud, Bali - Campuhan Ridge Walk - ]
-[09:48:28]   사누르/beach: Downloaded 5/25
-[09:48:30]   사누르/beach: Downloaded 10/25
-[09:48:32]   사누르/beach: Downloaded 15/25
-[09:48:36]   사누르/beach: Downloaded 20/25
-[09:48:39]   사누르/beach: Downloaded 25/25
-[09:48:39]   사누르/beach: Done! Downloaded 25 new images
-[09:48:39]   사누르/nature: Have 0, need 25 more
-[09:49:01]   사누르/nature: Found 64 unique candidates
-[09:49:05]   사누르/nature: Downloaded 5/25
-[09:49:09]   사누르/nature: Downloaded 10/25
-[09:49:15]   사누르/nature: Downloaded 15/25
-[09:49:17]   사누르/nature: Done! Downloaded 16 new images
-[09:49:17]   사누르/shopping: Have 0, need 25 more
-[09:49:39]   사누르/shopping: Found 25 unique candidates
-[09:49:41]   사누르/shopping: Done! Downloaded 1 new images
-[09:49:41]   사누르/transport: Have 0, need 25 more
-[09:50:01]   사누르/transport: Found 24 unique candidates
-[09:50:03]   사누르/transport: Done! Downloaded 1 new images
-[09:50:03] 
-========================================
-[09:50:03] Processing area: 누사두아
-[09:50:03] ========================================
-[09:50:03]   누사두아/food: Have 0, need 25 more
-[09:50:25]   누사두아/food: Found 9 unique candidates
-[09:50:26]   누사두아/food: Done! Downloaded 3 new images
-[09:50:26]   누사두아/culture: Have 0, need 25 more
+[10:18:06]   🔍 우붓/food: +48장
+[10:18:35]     📋 후보 URL: 2개
+[10:18:36]   🔍 우붓/culture: +49장
+[10:19:03]     📋 후보 URL: 2개
+[10:19:03]   🔍 우붓/beach: +42장
+[10:19:23]     📋 후보 URL: 2개
+[10:19:24]   🔍 우붓/nature: +23장
+[10:19:53]     📋 후보 URL: 2개
+[10:19:53]   🔍 우붓/shopping: +35장
+[10:20:12]     📋 후보 URL: 2개
+[10:20:12]   🔍 우붓/transport: +36장
+[10:20:23]     📋 후보 URL: 2개
+[10:20:23] 
+🌍 스미냑
+[10:20:23]   🔍 스미냑/food: +22장
+[10:20:51]     📋 후보 URL: 2개
+[10:20:52]   🔍 스미냑/culture: +15장
+[10:21:03]     📋 후보 URL: 2개
+[10:21:03]   🔍 스미냑/beach: +25장
+[10:21:31]     📋 후보 URL: 2개
+[10:21:31]   🔍 스미냑/nature: +70장
+[10:21:42]     📋 후보 URL: 2개
+[10:21:42]   🔍 스미냑/shopping: +85장
+[10:21:59]     📋 후보 URL: 2개
+[10:21:59]   🔍 스미냑/transport: +83장
+[10:22:10]     📋 후보 URL: 2개
+[10:22:11] 
+🌍 꾸따
+[10:22:11]   🔍 꾸따/food: +20장
+[10:22:39]     📋 후보 URL: 2개
+[10:22:39]   🔍 꾸따/culture: +25장
+[10:22:50]     📋 후보 URL: 2개
+[10:22:50]   🔍 꾸따/beach: +18장
+[10:23:16]     📋 후보 URL: 2개
+[10:23:16]   🔍 꾸따/nature: +9장
+[10:23:26]     📋 후보 URL: 2개
+[10:23:28]   🔍 꾸따/shopping: +22장
+[10:23:53]     📋 후보 URL: 2개
+[10:23:54]   🔍 꾸따/transport: +28장
+[10:24:12]     📋 후보 URL: 2개
+[10:24:13] 
+🌍 사누르
+[10:24:13]   🔍 사누르/food: +42장
+[10:24:34]     📋 후보 URL: 2개
+[10:24:34]   🔍 사누르/culture: +14장
+[10:24:45]     📋 후보 URL: 2개
+[10:24:45]   🔍 사누르/beach: +56장
+[10:25:03]     📋 후보 URL: 2개
+[10:25:03]   🔍 사누르/nature: +70장
+[10:25:14]     📋 후보 URL: 2개
+[10:25:14]   🔍 사누르/shopping: +67장
+[10:25:25]     📋 후보 URL: 2개
+[10:25:26]   🔍 사누르/transport: +88장
+[10:25:36]     📋 후보 URL: 2개
+[10:25:36] 
+🌍 누사두아
+[10:25:36]   🔍 누사두아/food: +45장
+[10:25:54]     📋 후보 URL: 2개
+[10:25:54]   🔍 누사두아/culture: +38장
+[10:26:05]     📋 후보 URL: 2개
+[10:26:05]   🔍 누사두아/beach: +29장
+[10:26:13]     📋 후보 URL: 2개
+[10:26:13] ⏰ 시간 제한 도달, 중단
+[10:26:13] 
+============================================================
+[10:26:13] ✅ 완료! 신규 0장 (487초)
+[10:26:13]    총 이미지: 5136장
+[10:26:13] ============================================================
