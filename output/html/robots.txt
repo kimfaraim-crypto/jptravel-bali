@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /output/images_real/
+
+Sitemap: https://balitravel.blog/sitemap.xml
+
+# JP Travel Bali - 발리 여행 블로그
+# 2026년 업데이트
