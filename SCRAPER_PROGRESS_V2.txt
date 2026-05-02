@@ -39,3 +39,122 @@
 [09:53:54]   사누르/food: +3 downloaded (total: 9)
 [09:53:54]   사누르/culture: 11 existing, need 14 more
 [09:54:12]   사누르/culture: 87 unique candidates
+[09:54:18]   사누르/culture: +3 downloaded (total: 14)
+[09:54:18]   사누르/nature: 16 existing, need 9 more
+[09:54:34]   사누르/nature: 64 unique candidates
+[09:54:41]   사누르/nature: +9 downloaded (total: 25)
+[09:54:41]   사누르/shopping: 1 existing, need 24 more
+[09:54:58]   사누르/shopping: 25 unique candidates
+[09:54:59]   사누르/shopping: +0 downloaded (total: 1)
+[09:54:59]   사누르/transport: 1 existing, need 24 more
+[09:55:16]   사누르/transport: 22 unique candidates
+[09:55:16]   사누르/transport: +0 downloaded (total: 1)
+[09:55:16] 
+🌍 누사두아
+[09:55:16]   누사두아/food: 3 existing, need 22 more
+[09:55:33]   누사두아/food: 7 unique candidates
+[09:55:34]   누사두아/food: +0 downloaded (total: 3)
+[09:55:34]   누사두아/culture: 0 existing, need 25 more
+[09:55:54]   누사두아/culture: 50 unique candidates
+[09:56:03]   누사두아/culture: +18 downloaded (total: 18)
+[09:56:03]   누사두아/beach: 0 existing, need 25 more
+[09:56:27]   누사두아/beach: 38 unique candidates
+[09:56:36]   누사두아/beach: +18 downloaded (total: 18)
+[09:56:36]   누사두아/nature: 0 existing, need 25 more
+[09:57:00]   누사두아/nature: 66 unique candidates
+[09:57:11]   누사두아/nature: +14 downloaded (total: 14)
+[09:57:11]   누사두아/shopping: 0 existing, need 25 more
+[09:57:34]   누사두아/shopping: 13 unique candidates
+[09:57:38]   누사두아/shopping: +6 downloaded (total: 6)
+[09:57:38]   누사두아/transport: 0 existing, need 25 more
+[09:58:01]   누사두아/transport: 33 unique candidates
+[09:58:05]   누사두아/transport: +5 downloaded (total: 5)
+[09:58:05] 
+🌍 울루와뚜
+[09:58:05]   울루와뚜/food: 0 existing, need 25 more
+[09:58:28]   울루와뚜/food: 4 unique candidates
+[09:58:30]   울루와뚜/food: +4 downloaded (total: 4)
+[09:58:30]   울루와뚜/culture: 0 existing, need 25 more
+[09:58:53]   울루와뚜/culture: 83 unique candidates
+[09:59:06]   울루와뚜/culture: +25 downloaded (total: 25)
+[09:59:06]   울루와뚜/beach: 0 existing, need 25 more
+[09:59:30]   울루와뚜/beach: 73 unique candidates
+[09:59:45]   울루와뚜/beach: +24 downloaded (total: 24)
+[09:59:45]   울루와뚜/nature: 0 existing, need 25 more
+[10:00:09]   울루와뚜/nature: 42 unique candidates
+[10:00:27]   울루와뚜/nature: +23 downloaded (total: 23)
+[10:00:27]   울루와뚜/shopping: 0 existing, need 25 more
+[10:00:50]   울루와뚜/shopping: 19 unique candidates
+[10:00:56]   울루와뚜/shopping: +10 downloaded (total: 10)
+[10:00:56]   울루와뚜/transport: 0 existing, need 25 more
+[10:01:20]   울루와뚜/transport: 13 unique candidates
+[10:01:21]   울루와뚜/transport: +2 downloaded (total: 2)
+[10:01:21] 
+🌍 짠디다사
+[10:01:21]   짠디다사/food: 0 existing, need 25 more
+[10:01:44]   짠디다사/food: 5 unique candidates
+[10:01:47]   짠디다사/food: +5 downloaded (total: 5)
+[10:01:47]   짠디다사/culture: 0 existing, need 25 more
+[10:02:11]   짠디다사/culture: 68 unique candidates
+[10:02:23]   짠디다사/culture: +25 downloaded (total: 25)
+[10:02:23]   짠디다사/beach: 0 existing, need 25 more
+[10:02:47]   짠디다사/beach: 54 unique candidates
+[10:02:57]   짠디다사/beach: +22 downloaded (total: 22)
+[10:02:57]   짠디다사/nature: 0 existing, need 25 more
+[10:03:22]   짠디다사/nature: 51 unique candidates
+[10:03:35]   짠디다사/nature: +25 downloaded (total: 25)
+[10:03:35]   짠디다사/shopping: 0 existing, need 25 more
+[10:03:58]   짠디다사/shopping: 5 unique candidates
+[10:04:00]   짠디다사/shopping: +2 downloaded (total: 2)
+[10:04:00]   짠디다사/transport: 0 existing, need 25 more
+[10:04:24]   짠디다사/transport: 35 unique candidates
+[10:04:26]   짠디다사/transport: +3 downloaded (total: 3)
+[10:04:26] 
+🌍 로비나
+[10:04:26]   로비나/food: 0 existing, need 25 more
+[10:04:49]   로비나/food: 17 unique candidates
+[10:04:52]   로비나/food: +10 downloaded (total: 10)
+[10:04:52]   로비나/culture: 0 existing, need 25 more
+[10:05:16]   로비나/culture: 53 unique candidates
+[10:05:29]   로비나/culture: +24 downloaded (total: 24)
+[10:05:29]   로비나/beach: 0 existing, need 25 more
+[10:05:53]   로비나/beach: 65 unique candidates
+[10:06:06]   로비나/beach: +25 downloaded (total: 25)
+[10:06:06]   로비나/nature: 0 existing, need 25 more
+[10:06:30]   로비나/nature: 51 unique candidates
+[10:06:42]   로비나/nature: +19 downloaded (total: 19)
+[10:06:42]   로비나/shopping: 0 existing, need 25 more
+[10:07:05]   로비나/shopping: 29 unique candidates
+[10:07:07]   로비나/shopping: +0 downloaded (total: 0)
+[10:07:07]   로비나/transport: 0 existing, need 25 more
+[10:07:32]   로비나/transport: 37 unique candidates
+[10:07:40]   로비나/transport: +9 downloaded (total: 9)
+[10:07:40] 
+🌍 킨타마니
+[10:07:40]   킨타마니/food: 0 existing, need 25 more
+[10:08:03]   킨타마니/food: 43 unique candidates
+[10:08:17]   킨타마니/food: +25 downloaded (total: 25)
+[10:08:17]   킨타마니/culture: 0 existing, need 25 more
+[10:08:41]   킨타마니/culture: 89 unique candidates
+[10:08:58]   킨타마니/culture: +23 downloaded (total: 23)
+[10:08:58]   킨타마니/beach: 0 existing, need 25 more
+[10:09:22]   킨타마니/beach: 56 unique candidates
+[10:09:38]   킨타마니/beach: +25 downloaded (total: 25)
+[10:09:38]   킨타마니/nature: 0 existing, need 25 more
+[10:10:00]   킨타마니/nature: 88 unique candidates
+[10:10:13]   킨타마니/nature: +25 downloaded (total: 25)
+[10:10:13]   킨타마니/shopping: 0 existing, need 25 more
+[10:10:37]   킨타마니/shopping: 29 unique candidates
+[10:10:40]   킨타마니/shopping: +3 downloaded (total: 3)
+[10:10:40]   킨타마니/transport: 0 existing, need 25 more
+[10:11:04]   킨타마니/transport: 32 unique candidates
+[10:11:13]   킨타마니/transport: +13 downloaded (total: 13)
+[10:11:13] 
+🌍 타나롯
+[10:11:13]   타나롯/food: 0 existing, need 25 more
+[10:11:36]   타나롯/food: 8 unique candidates
+[10:11:39]   타나롯/food: +4 downloaded (total: 4)
+[10:11:39]   타나롯/culture: 0 existing, need 25 more
+[10:12:03]   타나롯/culture: 52 unique candidates
+[10:12:16]   타나롯/culture: +23 downloaded (total: 23)
+[10:12:16]   타나롯/beach: 0 existing, need 25 more
