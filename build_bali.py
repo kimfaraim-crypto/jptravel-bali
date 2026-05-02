@@ -602,31 +602,51 @@ def load_image_mapping():
                 continue
     return {}
 
-def get_images(area, category, count=10):
-    """지역+카테고리별 이미지 가져오기"""
+def get_images(area, category, page_index=0, count=10):
+    """지역+카테고리별 이미지 가져오기 (페이지별 고유 배분 - 중복 방지)"""
     mapping = load_image_mapping()
+    
+    def rotate_images(img_list, pidx, cnt):
+        """페이지별 고유 이미지 세트 생성 (시드 셔플 방식)"""
+        total = len(img_list)
+        if total <= cnt:
+            return list(img_list)
+        # 페이지별 고유 시드로 셔플 → 앞에서 cnt개 선택
+        seed_str = f"{area}_{category}_{pidx}"
+        seed_val = int(hashlib.md5(seed_str.encode()).hexdigest()[:8], 16)
+        shuffled = list(img_list)
+        # Fisher-Yates 셔플 (시드 고정)
+        rng = seed_val
+        for i in range(len(shuffled) - 1, 0, -1):
+            rng = (rng * 1103515245 + 12345) & 0x7FFFFFFF
+            j = rng % (i + 1)
+            shuffled[i], shuffled[j] = shuffled[j], shuffled[i]
+        return shuffled[:cnt]
     
     # v3 매핑 시도
     area_imgs = mapping.get(area, {}).get(category, [])
     if len(area_imgs) >= count:
-        return area_imgs[:count]
+        return rotate_images(area_imgs, page_index, count)
     
-    # 같은 지역 다른 카테고리에서 보충
-    all_area = []
-    for cat_imgs in mapping.get(area, {}).values():
-        all_area.extend(cat_imgs)
-    if len(all_area) >= count:
-        return all_area[:count]
+    # 같은 지역 다른 카테고리에서 보충 (해당 카테고리 이미지 우선)
+    own_imgs = list(area_imgs)
+    other_imgs = []
+    for cat, cat_imgs in mapping.get(area, {}).items():
+        if cat != category:
+            other_imgs.extend(cat_imgs)
+    combined = own_imgs + other_imgs
+    if len(combined) >= count:
+        return rotate_images(combined, page_index, count)
     
     # 파일시스템에서 직접 검색
     for search_dir in [OUTPUT_IMAGES / area / category, OUTPUT_IMAGES / area]:
         if search_dir.exists():
             imgs = sorted([f.name for f in search_dir.iterdir() if f.suffix.lower() in ('.jpg', '.png', '.webp')])
             if len(imgs) >= count:
-                return imgs[:count]
+                return rotate_images(imgs, page_index, count)
     
     # Picsum fallback
-    return [f"placeholder_{hashlib.md5(f'{area}_{category}_{i}'.encode()).hexdigest()[:8]}.webp" for i in range(count)]
+    return [f"placeholder_{hashlib.md5(f'{area}_{category}_{page_index}_{i}'.encode()).hexdigest()[:8]}.webp" for i in range(count)]
 
 def generate_qa_html(area, data, index):
     """Q&A 서론 생성 (페이지별 변형)"""
@@ -739,7 +759,7 @@ def generate_coupon_html():
 
 def generate_images_html(area, category, index):
     """이미지 10장 HTML 생성"""
-    images = get_images(area, category, 10)
+    images = get_images(area, category, index, 10)
     cat_info = CATEGORIES.get(category, CATEGORIES["food"])
     html = ""
     for i, img in enumerate(images):
