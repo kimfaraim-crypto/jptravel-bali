@@ -1,0 +1,35 @@
+{
+  "total_html": 924,
+  "areas": 11,
+  "categories": 6,
+  "dup_titles": 0,
+  "dup_descs": 5,
+  "avg_chars": 1165,
+  "short_pages": 923,
+  "hanja_pages": 76,
+  "emoji_pages": 924,
+  "josa_errors": 0,
+  "repeated_phrases": {
+    "정보를 정리했습니다": 247,
+    "최신 정보이니 참고하세요": 247,
+    "즐거운 시간 보내세요": 245,
+    "도움이 되셨길 바랍니다": 205,
+    "추가 질문은 댓글로": 205,
+    "가격 비교": 138,
+    "추천이에요": 132,
+    "2026 최신": 104,
+    "실전 팁": 66
+  },
+  "unique_h2_structures": 876,
+  "dup_qa": 0,
+  "img_missing": 0,
+  "img_dup_in_page": 0,
+  "img_high_reuse": 763,
+  "generic_alts": 2754,
+  "mrt_stats": {
+    "affiliate": 924,
+    "coupon": 924,
+    "disclaimer": 924,
+    "sponsored": 924
+  }
+}
